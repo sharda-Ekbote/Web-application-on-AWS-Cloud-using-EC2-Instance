@@ -1,0 +1,87 @@
+
+Contact Information
+Sharda Ekbote 
+9113279038
+Sharda.ekbote@gmail.com
+linkedin.com/in/sharda-ekbote-a78496287
+Bangalore,Karnataka
+Professional Summary
+AWS Certified Solutions Architect training completed with over 5 years of experience as Production application support in IT Industry.
+ Professional Experience:
+      1)   Company:    ITC INFOTECH, Pulikeshi Nagar, Bangalore.
+
+     Job Profile:  System Analyst ITC Data Centre from July 2012 to July 2013
+Basic level Server monitoring through HP - OVO Tool.
+ Generating CPU , Memory and Disk Utilization Report using HP - site scope tool according to automatic generated alerts. 
+Network Links ??? L1 support in trouble shooting like checking link down, packet drops,high latency, low reliability status through login into the router.
+ Basic working experience of ITIL Procress. 
+Raising service requests and Incidents. RSA token user account creation, deletion and unlock. Internet account creation, deletion and user account unlock/rest in AD (Active Directory).
+
+2)   Company: - Thomson Reuters International Services Private Ltd
+Job Profile:  Operations Engineer   from   Oct 2013 to July 2015.
+Role and Responsibilities 
+Performs routine daily operations, monitoring and fault detection for Reuters managed systems and networks, within the Data Centre 
+ Issuance of Internal Customer Notification of serious service affecting problems.
+Service Support Escalation (Lateral & Vertical) for serious Service affecting incidents 
+ Liaison with counterparts within the company, on service related issues and process
+Perform pre & post checks for market open, change execution & incident recovery 
+
+
+
+3) Company: - Thomson Reuters International Services Private Ltd
+
+Job Profile:  System Engineer   Aug 2015 till Nov 2016
+Role and Responsibilities
+Monitoring   Editorial news and Realtime Exchange products   through Compass and IBM Tivoli monitoring Tool.
+In my production environment we have 51 applications and  running across Windows 2003 and Linux  boxes  all nodes are established in horizontal cluster.
+Using HP Service Manager7, HP Service Manager 9 as a Ticketing Tool.
+Handling TRT (Technical Resolution Team) or Bridge call for service impacting issues, raising  MIN and service alerts for service impact issues.
+Performing server maintenance during the weekend?s
+SME in Incident management and Change management
+Creation of Work Instructions its  also one of our yearly goals  
+Using VMware vCenter 5.5  for monitoring  Virtual machines  and performing weekly reboots and maintenance.
+Updating Microsoft patches on Servers on weekly basis
+. 
+6.Certification and Training
+ITIL v3 2011 Foundation Certification  from  SimpliLearn
+ITIL Intermediate(OSA) 2 days training from SimpliLearn
+AWS Solutions Architect - Associate Level from SimpliLearn
+AWS Cloud Architect Masters Program from simpliLearn
+Oracle Cloud Infrastructure 2023 Foundations Associate (1Z0-1085-23)
+Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)   (Valid Upto August 2025)
+Vmware-certified-technical-associate-data-center-virtualization-2023
+Academic Education
+Year of passing	Degree	Board	Percentage
+2011	B.E. (Information Science)	Dr. TTIT Ooragaum affiliated to Visveshwaraya Technological 
+University, Belgaum	57
+2008	Diploma (Information Science)	K.L.E. Polytechnic Hubli	65
+
+2005	Pre-University	Karnataka Pre-University Education	   68.66 %        
+2003	SSLC	Karnataka secondary education Examination Board	68.16%
+
+
+
+ Projects
+            1. Set Up and Monitor a WordPress Instance
+You should be able to configure a WordPress instance using AWS CloudFormation and monitor the instance
+Set up a live WordPress instance to publish blogs
+
+           2. Email Notification and Movement Process in an Organization
+Description
+As a Cloud engineer in an IT firm. You are assigned  a critical project. In this project, there will be an application that will upload a file on the Cloud. This file will be processed by a server-less computing platform and will send an email with all the details to the user. When the user receives the email, he/she is notified about it. In case the user wishes to delete the email, he/she has to reply to the email saying Delete. On receiving this response, the file will be deleted and moved to another folder on the Cloud.
+ 
+           3.Scaling the EC2 Instance Based on Monitored CloudWatch Metrics
+Description
+Use Auto Scaling to manage the EC2 instances and use EC2 instance and capture the metrics in the CloudWatch.
+
+Additional Information
+Languages: English (Fluent), Kannada (Native)
+Availability: Open to relocation within India
+
+DECLARATION
+
+I hereby declare that the above furnished details are true to the best of my knowledge and assure you my services to the satisfaction.
+
+Sharda E
+
+
